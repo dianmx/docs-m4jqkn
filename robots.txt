@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-902ixn.indocuan-pro.site/sitemap.xml
